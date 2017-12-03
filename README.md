@@ -30,7 +30,7 @@ $ go test
 License
 -------
 
-GNU v3.0
+GPL-3.0
 
 Author Information
 ------------------
