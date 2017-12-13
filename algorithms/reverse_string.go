@@ -1,9 +1,9 @@
 package algorithms
 
 func ReverseString(word string) string {
-	result := ""
+	var reversed string
 	for _, v := range word {
-		result = string(v) + result
+		reversed = string(v) + reversed
 	}
-	return result
+	return reversed
 }
