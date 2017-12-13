@@ -27,6 +27,12 @@ Inside a algorithms directory run that command:
 $ go test
 ```
 
+or 
+
+```shell
+$ make
+```
+
 License
 -------
 
