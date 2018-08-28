@@ -1,4 +1,4 @@
-# AlgorithmsGo
+# AlgorithmsGo - [![Build Status](https://travis-ci.org/seregatte/AlgorithmsGo.svg?branch=master)](https://travis-ci.org/seregatte/AlgorithmsGo)
 
 Some Algorithms written in Go for language studies (PR are welcome)
 
